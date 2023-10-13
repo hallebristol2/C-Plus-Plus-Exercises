@@ -24,3 +24,5 @@ int main() {
         ++num;
     }
 }
+
+// Solution from the course utilized two for loops and a boolean to denote prime status.
